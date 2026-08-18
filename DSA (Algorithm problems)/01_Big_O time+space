@@ -1,0 +1,60 @@
+//TIME AND SPACE COMPLEXITY
+
+
+// big O notation upper bound of time complexity
+// theta avg. case 
+// omega worst case
+
+
+
+
+//The types of time complexity
+
+//1- constant time O(1) 
+// single task complete in one operation like(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+// if n is constant 
+
+
+//2-liner time O(n)
+// time taken is equal to the size of input like(n, 2n, 3n, 4n, 5n, 6n, 7n, 8n, 9n, 10n)
+
+
+//3- quadratic time O(n^2)
+// time taken is equal to the square of the size of input like(n^2, n^3, n^4, n^5, n^6, n^7, n^8, n^9, n^10)
+
+
+//4- logarithmic time O(log n)  /
+// time taken is equal to the logarithm of the size of input
+// the total number of input is reduced by half in each step like(500,250,125,62,31,15,7,3,1)
+
+
+//5- exponential time O(2^n)  /
+// time taken is equal to the exponential of the size of input like(2^1, 2^2, 2^3, 2^4, 2^5, 2^6, 2^7, 2^8, 2^9, 2^10)
+
+
+//6- factorial time O(n!)  /
+// time taken is equal to the factorial of the size of input like(1!, 2!, 3!, 4!, 5!, 6!, 7!, 8!, 9!, 10!)
+
+
+
+
+
+// Generating time complexity equation
+
+//NOTE*
+// always take heighest degree of complexity to be picked in parallel statements and 
+// ignore the lower degree of complexity and also ignore the constant time complexity in the equation
+
+
+// range for tim complexity equation
+
+ // n <= 10^8 = log(n) or O(1)
+ // n <= 10^6 = O(n) or O(log n)
+ // n <= 10^4 = O(n^2) or O(n log n)
+ // n <= 10^2 = O(n^3) or O(2^n)
+ // n <= 20000 = O(n^4) or O(n!)
+ // n <= 100 = O(n^5) or O(n!)
+
+
+
+ // DONE QUESTIONS FROM " LAUNCH SCHOOL "
