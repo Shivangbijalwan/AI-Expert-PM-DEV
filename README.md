@@ -6,18 +6,6 @@
 
 ---
 
-## 📊 PROGRESS TRACKER (Update Monthly)
-
-```
-Days:    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  DAY_NUMBER/730
-Hours:   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  HOURS_TOTAL/1825
-Commits: ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  COMMIT_COUNT/730
-```
-
-**Last Updated:** [DATE] | **Current Phase:** [PHASE_NAME] | **Days Completed:** [X/730]
-
----
-
 ## 🎯 THE 4 SKILL STREAMS
 
 ### **📘 JavaScript (45 min/rotation)**
@@ -140,39 +128,6 @@ AI-Expert-PM-2Year/
     └── 04-Research-Assistant/
 ```
 
----
-
-## 🎯 THE COMMITMENT
-
-**Daily Rotation (2.5 hours):**
-- **Day 1:** JavaScript (45 min) + Break time
-- **Day 2:** DSA (30 min) + Break time
-- **Day 3:** PM (30 min) + Break time
-- **Day 4:** AI (30 min) + Break time
-- **Repeat**
-
-**Weekly Output:**
-- ✅ 3-4 commits per stream
-- ✅ 1 problem solved/document written
-- ✅ 1 reflection/analysis
-
----
-
-## 💡 WHY THESE 4 SKILLS?
-
-| Skill | Why | AI Expert PM Advantage |
-|---|---|---|
-| **JavaScript** | Build products yourself | Prototype in 1 week, not 4 |
-| **DSA** | Optimize algorithms | Reduce costs 100x via efficiency |
-| **PM** | Think strategically | Make business-driven decisions |
-| **AI** | Understand LLMs deeply | Evaluate feasibility accurately |
-
-**Result:** You can evaluate, design, prototype, and ship AI products independently.
-
-**Most people choose ONE path. You're mastering ALL FOUR.**
-
----
-
 ## 📈 4 PHASES (2 Years)
 
 ### **Phase 1: Foundation (Aug 2026 - Jan 2027)**
@@ -220,7 +175,7 @@ AI-Expert-PM-2Year/
 - PMs: Understand strategy, can't evaluate tech
 - AI Researchers: Know algorithms, can't ship
 
-### **You (AI Expert PM)**
+### **(AI Expert PM)**
 - ✅ Can prototype AI products
 - ✅ Can evaluate technical feasibility
 - ✅ Can optimize for cost/speed/quality
@@ -269,8 +224,6 @@ AI-Expert-PM-2Year/
 **Algorithms:** [LeetCode](https://leetcode.com/)  
 **Product:** [Reforge](https://www.reforge.com/)  
 **AI:** [Claude.ai](https://claude.ai/)  
-**Books:** "Inspired" (Cagan) | "CTCI" (McDowell) | "Designing Data-Intensive Apps"
-
 ---
 
 ## 💭 THE PHILOSOPHY
@@ -294,29 +247,6 @@ A **rare combination** with unique superpowers.
 **Most people quit on Day 3-4. You won't.**
 
 **Consistency is the superpower.**
-
----
-
-## 📊 HOW TO UPDATE THIS README
-
-**Every Month, Update ONLY These 3 Numbers:**
-
-1. **DAY_NUMBER** (top section)
-   - Example: `3/730` → `30/730` → `100/730`
-
-2. **HOURS_TOTAL** (top section)
-   - Example: `7.5/1825` → `75/1825` → `250/1825`
-
-3. **COMMIT_COUNT** (top section)
-   - Example: `8/730` → `80/730` → `250/730`
-
-4. **[DATE]** (top section)
-   - Update with current date
-
-5. **[PHASE_NAME]** (top section)
-   - Phase 1, Phase 2, Phase 3, or Phase 4
-
-**That's it. Everything else stays the same for 2 years.**
 
 ---
 
