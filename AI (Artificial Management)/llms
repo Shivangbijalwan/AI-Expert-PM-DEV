@@ -10,3 +10,9 @@
 // 4- probablity can be changed for same question or input
 // 5- back propogation for last word choosing
 // 6- RHLF (Reinforcement learning with Human Feedback) is done (It is a training method used to align AI models with human preferences)
+
+
+//What IS G-P-T
+
+//Generative Pre-Trained Transformers 
+//It is a large language model that uses deep learning to understand and write human-like text. It predicts the next word in a sentence to form meaningful responses.
