@@ -16,3 +16,9 @@
 
 //Generative Pre-Trained Transformers 
 //It is a large language model that uses deep learning to understand and write human-like text. It predicts the next word in a sentence to form meaningful responses.
+
+//Transformers (Model)
+//It absorbs all words and values in prallel sothe output will be fast and more acuate
+
+//Attention
+// It is the process where all words connect with each other tp help the model to find the missing word and sentence with most of its acuracy 
