@@ -1,0 +1,12 @@
+//What are LLM's 
+
+// LLMs are large language module it is type of AI (Artificial intelligence) trained on massive amount of text to understand summarize , translate and generate human like language. (for example - Claude , GPT)
+
+// How It works
+
+// 1- It assigns Probablity
+// 2- The top of the probablity the next word will be correct 
+// 3- massive text for training 
+// 4- probablity can be changed for same question or input
+// 5- back propogation for last word choosing
+// 6- RHLF (Reinforcement learning with Human Feedback) is done (It is a training method used to align AI models with human preferences)
