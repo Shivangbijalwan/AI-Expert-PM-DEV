@@ -69,7 +69,7 @@ Deploy production AI applications + prompt engineering mastery
 
 | Skill | Level | Status |
 |---|---|---|
-| LLM Fundamentals | Beginner | ⏳ |
+| LLM Fundamentals | Beginner | ✅ |
 | Tokens & Context | Beginner | ⏳ |
 | Prompting Techniques | Intermediate | ⏳ |
 | Few-Shot Learning | Intermediate | ⏳ |
