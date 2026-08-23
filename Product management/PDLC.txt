@@ -1,0 +1,13 @@
+PDLC is Product Development Lifecycle
+it is the process to manage product in the following ways:
+
+Ideation - finding the correct idea for product for users and the company will it usefull or not .. will help to earn money or not.
+
+Design - creating and deciding which is correct clean design ,  wireframes , userframe ,  UI Elements  for the app
+
+Development - this is the process in which developers change design that is decided to the code and reallife products
+
+Testing - here testers check that the developers work and design are same all the components are working in good way and full app is working
+
+Launch - launching the app or product to the coustomer and help all coustomer to use and add coustomer support in it 
+

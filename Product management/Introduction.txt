@@ -9,5 +9,5 @@
 
 //PM write Product requirement , Backlogs , and create roadmap for the product
 
-// mission -> vission -> problems -> solutions 
+ mission -> vission -> problems -> solutions 
 
