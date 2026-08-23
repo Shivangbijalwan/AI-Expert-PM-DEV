@@ -14,7 +14,7 @@ Build full-stack web applications + AI API integration
 | Skill | Level | Status |
 |---|---|---|
 | Variables & Data Types | Beginner | ✅ |
-| Functions & Scope | Beginner | ⏳ |
+| Functions & Scope | Beginner | ✅ |
 | Arrays & Methods | Intermediate | ⏳ |
 | Async/Await & Promises | Intermediate | ⏳ |
 | APIs & Fetch | Intermediate | ⏳ |
