@@ -23,3 +23,53 @@ Marketing strategy
 payment strategy
 Scale the app in GTM after Launch 
 
+////////////////////////////////////////////////////////////////////////////////////////////
+
+4 Phases of PDLC (Product Development Lifecycle)
+
+(1) - Development - it is the process of creating the app using the design  and in the presence and view of Product Manager the Features and all the resources are added to the APP acourding to PRD.
+
+In easy word ... design to working app 
+
+there are 4 keypoints of development Phase 
+
+Opertunity validation
+Design
+Development
+Launch & Integration 
+
+(2) - Growth - more people use the app / product Revenue Growing stratagy growing 
+and its also the thing new coustomer comming but old are not going 
+
+AARRR and RARRA Matrix
+
+This is growth of product strategy and matrixes
+
+AARRR is-
+Aquasition
+Activation
+Retention
+Revenue
+Refral
+
+RARRA is -
+Retention
+Aquasition
+Revenue
+Referal
+Activation
+
+
+
+(3) - MATURITY - IT IS 
+
+Stable Product
+Making app scalable
+More features and maintaining in same pace
+
+
+
+(4) - Decline -  this is the part Product review when new companys / compititors come in this and you should take a step from these two:
+
+- New Market strategy + new features + idea implimentation .
+- close the product fully and no new feature no new work in the product.
