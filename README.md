@@ -190,7 +190,7 @@ AI-Expert-PM-2Year/
 
 1. **Never skip a day** - Consistency > perfection
 2. **Build something every week** - Code, docs, prompts, always create
-3. **Push to GitHub daily** - 730 commits = proof
+3. **Push to GitHub daily** - more than 730 commits = proof
 4. **Document everything** - Learning journal + portfolio building
 5. **Weekly reflection** - What worked? What didn't? Adjust.
 
