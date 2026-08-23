@@ -11,3 +11,15 @@ Testing - here testers check that the developers work and design are same all th
 
 Launch - launching the app or product to the coustomer and help all coustomer to use and add coustomer support in it 
 
+////////////////////////////////////////////////////////////////////////////////////////////
+
+GTM GUIDE
+
+Product to connect coustomers 
+Go to Market strategy
+Who is target user . how to stuck him in product
+Market Position
+Marketing strategy
+payment strategy
+Scale the app in GTM after Launch 
+
