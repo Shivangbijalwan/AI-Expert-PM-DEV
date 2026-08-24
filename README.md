@@ -1,281 +1,50 @@
-# 🚀 AI EXPERT PM: 2-Year Mastery Journey
+# AI Expert PM — Learning Plan
 
-**Target:** August 17, 2026 → August 17, 2028
-
-> Become an AI Expert Product Manager with 3-4 shipped AI products. Master JavaScript, DSA, Product Management, and AI Fundamentals through deliberate practice.
-
----
-
-## 🎯 THE 4 SKILL STREAMS
-
-### **📘 JavaScript (45 min/rotation)**
-Build full-stack web applications + AI API integration
-
-| Skill | Level | Status |
-|---|---|---|
-| Variables & Data Types | Beginner | ✅ |
-| Functions & Scope | Beginner | ✅ |
-| Arrays & Methods | Intermediate | ⏳ |
-| Async/Await & Promises | Intermediate | ⏳ |
-| APIs & Fetch | Intermediate | ⏳ |
-| DOM Manipulation | Intermediate | ⏳ |
-| React Basics | Advanced | ⏳ |
-| Full-Stack Projects | Advanced | ⏳ |
-
-**Target by Aug 2028:** Build and deploy full-stack web apps
+**Duration:** Aug 17, 2026 → Aug 15, 2028 (730 days)
+**Daily commitment:** 2.5 hours, one subject at a time, every day
+**Goal:** Become a job-ready "AI Expert Product Manager" — strong in product thinking, AI fundamentals, hands-on web dev, data, design, and business — as a BCA student building a portfolio from scratch.
 
 ---
 
-### **🔢 DSA & Algorithms (30 min/rotation)**
-LeetCode Hard level + system design thinking
+## What I'm Learning
 
-| Skill | Level | Status |
-|---|---|---|
-| Big O Notation | Beginner | ✅ |
-| Searching Algorithms | Beginner | ⏳ |
-| Sorting Algorithms | Beginner | ⏳ |
-| Arrays & Strings | Intermediate | ⏳ |
-| Linked Lists | Intermediate | ⏳ |
-| Hash Maps/Dictionaries | Intermediate | ⏳ |
-| Trees & Graphs | Advanced | ⏳ |
-| Dynamic Programming | Advanced | ⏳ |
-| System Design | Expert | ⏳ |
-
-**Target by Aug 2028:** Solve LeetCode Hard problems, design systems
+| Track | What it covers |
+|---|---|
+| **JavaScript** | Weeks 1–2: core JS fundamentals. From Aug 25 onward: pure implementation — building real things with the DOM, components, apps, and full websites, 0 to hero. |
+| **DSA** | Data structures & algorithms — sorting, searching, trees, graphs, dynamic programming, system design, up through mock interviews. |
+| **Product Management** | PM fundamentals — lifecycle, research, personas, PRDs, prioritization, strategy, leadership, and PM interview prep. |
+| **AI Fundamentals** | LLM basics, prompting, RAG, agents, evaluation, LLMOps, and AI product/business thinking. |
+| **Business** | Business models, P&L/unit economics, strategy frameworks, fundraising, case-interview style practice — the commercial side of being a PM. |
+| **UI/UX Design** | Design thinking, Figma, usability heuristics, prototyping, portfolio case studies — enough to speak design fluently and prototype ideas myself. |
+| **Data Analytics** | SQL, statistics, Python/pandas, dashboards, product analytics (funnels, cohorts, A/B tests) — the data literacy a PM needs. |
+| **Communication** | Public speaking, writing, feedback, executive communication, storytelling — folded in roughly once a month rather than every week. |
 
 ---
 
-### **📊 Product Management (30 min/rotation)**
-Ship 3-4 AI products as PM + strategic thinking
+## How I'm Learning
 
-| Skill | Level | Status |
-|---|---|---|
-| PM Fundamentals | Beginner | ✅ |
-| Market & User Research | Beginner | ⏳ |
-| Product Strategy | Intermediate | ⏳ |
-| Competitive Analysis | Intermediate | ⏳ |
-| Roadmapping | Intermediate | ⏳ |
-| PRDs & User Stories | Intermediate | ⏳ |
-| Metrics & Analytics | Advanced | ⏳ |
-| Go-to-Market Strategy | Advanced | ⏳ |
-| Leadership & Influence | Expert | ⏳ |
+**One subject, full focus, every day.**
+Instead of splitting 2.5 hours across 4 subjects daily, I do **one subject per day at full depth** — a proper 2.5-hour block of Learn → Practice → Build/Apply → Review, not a rushed 30-minute skim.
 
-**Target by Aug 2028:** Ship 3-4 products, understand product-market fit
+**Rotation:**
+- **Aug 17–24:** JS → DSA → PM → AI, repeating every 4 days (early ramp-up).
+- **Aug 25 onward:** JS → DSA → PM → AI → Business → UI/UX → Data Analytics, repeating every 7 days (roughly one subject per day of the week). Communication takes over one day about every 4 weeks in place of that cycle's slot.
 
----
+**Each day's 2.5-hour block breaks down as:**
+- **Learn (40 min)** — study the core concept
+- **Practice (60 min)** — drill it with exercises/problems
+- **Build / Apply (30 min)** — use it on something real
+- **Review & Notes (20 min)** — write down what stuck, what didn't
 
-### **🤖 AI & LLMs (30 min/rotation)**
-Deploy production AI applications + prompt engineering mastery
+**Phases:**
+1. **Foundation** (Aug 2026 – Jan 2027) — fundamentals across every track
+2. **Building Depth** (Feb – Jul 2027) — backend, advanced DSA, ship 1st project
+3. **Integration** (Aug 2027 – Jan 2028) — React, system design, ship 2nd project
+4. **Mastery** (Feb – Aug 2028) — polish, interviews, portfolio complete
 
-| Skill | Level | Status |
-|---|---|---|
-| LLM Fundamentals | Beginner | ✅ |
-| Tokens & Context | Beginner | ⏳ |
-| Prompting Techniques | Intermediate | ⏳ |
-| Few-Shot Learning | Intermediate | ⏳ |
-| Model Evaluation | Intermediate | ⏳ |
-| Cost Optimization | Advanced | ⏳ |
-| Fine-Tuning | Advanced | ⏳ |
-| RAG & Retrieval | Advanced | ⏳ |
-| Agents & Tool Use | Expert | ⏳ |
-| Production Deployment | Expert | ⏳ |
-
-**Target by Aug 2028:** Deploy production LLM apps, optimize costs
+**Tracking:**
+I log what I actually did each day, and review progress weekly — adjusting pace or content if a track needs more (or less) time. The full day-by-day plan with specific topics lives in the calendar artifact; this README is the "why and how" behind it.
 
 ---
 
-## 🏗️ PERMANENT FOLDER STRUCTURE
-
-```
-AI-Expert-PM-2Year/
-├── README.md                    ← This file (never changes)
-│
-├── JavaScript/
-│   ├── 01-variables.js
-│   ├── 02-functions.js
-│   ├── 03-arrays.js
-│   ├── 04-objects.js
-│   ├── 05-async.js
-│   ├── Project-1-CLI-App/
-│   ├── Project-2-Weather-App/
-│   └── Project-3-Chat-UI/
-│
-├── DSA/
-│   ├── 01-Big-O-Notation.js
-│   ├── 02-Searching.js
-│   ├── 03-Sorting.js
-│   ├── 04-Arrays-Strings.js
-│   ├── 05-LinkedLists.js
-│   ├── 06-HashMaps.js
-│   ├── 07-Trees.js
-│   ├── 08-Graphs.js
-│   └── 09-DynamicProgramming.js
-│
-├── PM-Learning/
-│   ├── 01-PM-Fundamentals.md
-│   ├── 02-Market-Research.md
-│   ├── 03-Product-Strategy.md
-│   ├── 04-Competitive-Analysis.md
-│   ├── 05-Roadmapping.md
-│   ├── 06-PRD-Examples/
-│   ├── 07-Case-Studies/
-│   └── 08-Metrics-Framework.md
-│
-└── AI-Projects/
-    ├── 01-Chatbot/
-    ├── 02-Summarizer/
-    ├── 03-Classifier/
-    └── 04-Research-Assistant/
-```
-
-## 📈 4 PHASES (2 Years)
-
-### **Phase 1: Foundation (Aug 2026 - Jan 2027)**
-- Build basics in all 4 streams
-- Ship 1st AI product
-- Develop healthy habits
-
-### **Phase 2: Depth (Feb 2027 - Jul 2027)**
-- Advanced concepts in each stream
-- Ship 2nd AI product
-- Start interviewing mindset
-
-### **Phase 3: Integration (Aug 2027 - Jan 2028)**
-- Connect all skills together
-- Ship 3rd AI product
-- Build portfolio case studies
-
-### **Phase 4: Mastery (Feb 2028 - Aug 2028)**
-- Become expert-level
-- Ship 4th AI product
-- Interview-ready for top companies
-
----
-
-## 🎓 MILESTONES & DEADLINES
-
-| Milestone | Date | Status |
-|---|---|---|
-| Phase 1 Start | Aug 17, 2026 | ✅ |
-| 1st Product Shipped | Oct 31, 2026 | ⏳ |
-| Phase 2 Start | Feb 1, 2027 | ⏳ |
-| 2nd Product Shipped | Apr 30, 2027 | ⏳ |
-| Phase 3 Start | Aug 1, 2027 | ⏳ |
-| 3rd Product Shipped | Oct 31, 2027 | ⏳ |
-| Phase 4 Start | Feb 1, 2028 | ⏳ |
-| 4th Product Shipped | Jun 30, 2028 | ⏳ |
-| Interview Ready | Aug 17, 2028 | ⏳ |
-
----
-
-## 🚀 THE ADVANTAGE
-
-### **Most People**
-- Developers: Can code, can't evaluate product
-- PMs: Understand strategy, can't evaluate tech
-- AI Researchers: Know algorithms, can't ship
-
-### **(AI Expert PM)**
-- ✅ Can prototype AI products
-- ✅ Can evaluate technical feasibility
-- ✅ Can optimize for cost/speed/quality
-- ✅ Can speak to both engineers and executives
-- ✅ Can ship products end-to-end
-
-**This combination is rare. It's powerful. It's worth 2 years.**
-
----
-
-## 📝 5 NON-NEGOTIABLE RULES
-
-1. **Never skip a day** - Consistency > perfection
-2. **Build something every week** - Code, docs, prompts, always create
-3. **Push to GitHub daily** - more than 730 commits = proof
-4. **Document everything** - Learning journal + portfolio building
-5. **Weekly reflection** - What worked? What didn't? Adjust.
-
----
-
-## 🎓 EXPECTED OUTCOMES (Aug 17, 2028)
-
-### **Technical Skills**
-- JavaScript: Full-stack development
-- DSA: LeetCode Hard problems
-- AI: Production LLM deployment
-- PM: Ship and iterate products
-
-### **Portfolio**
-- 3-4 shipped AI products with users
-- 100+ DSA problems solved
-- 50+ PM documents & case studies
-- 730+ GitHub commits
-
-### **Interview Ready For**
-- AI Expert PM roles at top companies
-- Technical PM positions
-- Product + Engineering hybrid roles
-- Startup founder conversations
-
----
-
-## 🔗 RESOURCES (Evergreen)
-
-**JavaScript:** [MDN Web Docs](https://developer.mozilla.org/)  
-**Algorithms:** [LeetCode](https://leetcode.com/)  
-**Product:** [Reforge](https://www.reforge.com/)  
-**AI:** [Claude.ai](https://claude.ai/)  
----
-
-## 💭 THE PHILOSOPHY
-
-> **Technical PM who deeply understands AI**
-
-Not a generalist. Not a pure engineer. Not a pure PM.
-
-A **rare combination** with unique superpowers.
-
-**Most PMs can't code.** You will.  
-**Most developers can't think strategically.** You will.  
-**Most people can't evaluate AI.** You will.
-
----
-
-## ✨ THE JOURNEY
-
-**730 days | 1,825 hours | 4 skill streams | 3-4 shipped products**
-
-**Most people quit on Day 3-4. You won't.**
-
-**Consistency is the superpower.**
-
----
-
-## 🎯 EVERYTHING ELSE IS PERMANENT
-
-- ✅ Mission statement (never changes)
-- ✅ Folder structure (never changes)
-- ✅ Skill tables (never changes)
-- ✅ Philosophy (never changes)
-- ✅ 4 Phases (never changes)
-- ✅ Milestones (never changes)
-- ✅ 5 Rules (never changes)
-
-**Only update 5 numbers/dates. That's it.**
-
----
-
-<div align="center">
-
-🔥 **730 days. 1,825 hours. 1 life-changing transformation.**
-
-**Consistency is the superpower.**
-
-**Let's build something great.**
-
-</div>
-
----
-
-**START DATE:** August 17, 2026  
-**TARGET DATE:** August 17, 2028  
-**STATUS:** Active Development
+*Plan created: August 2026. Reviewed weekly, adjusted as needed, tracked daily.*
