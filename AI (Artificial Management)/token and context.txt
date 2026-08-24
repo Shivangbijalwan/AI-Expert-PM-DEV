@@ -10,3 +10,26 @@ Input token are counted how much A user used Its Claude
 more the token is more the bill will come 
 
 more token = more payment
+
+
+CONTEXT WINDOW -  it is the window that hleps the AI / LLM to remember things .... which is inside it  as it is like a small box .. the latest things you told wil be filed in this and begining one will be get removed 
+
+points help to remember -
+
+Short term memory
+Forgot the begning points and conversation
+It is the thing that as to remove because space of full
+some minuites and it startdeleting the begning words
+
+
+what is the seqience for context window
+
+TEXT - CONTEXT / PDF / IMAGE
+Tokenisation - the partition of text and send to LLM
+Token - Part of text / Image / PDF's and all 
+context Window - Small learning rememberence is called contxt window
+Attention Machanisum - Main Points in text 
+Input Output both
+Context window is not memory
+New Prompt new window
+more large window more large memory 
