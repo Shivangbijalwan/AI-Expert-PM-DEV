@@ -19,3 +19,30 @@ console.log(s.charAt(2));
 console.log(s.charCodeAt(3));
 //asciicode
 
+
+//this is printing the string
+let k = "sbikk";
+for(let i=0 ; i<s.length ; i++){
+    console.log(s[i]);
+
+
+}
+
+
+// this is printing in reverse order
+let d = "sbikk";
+let rev = "";
+for(let i=d.length-1 ; i>=0 ; i--){
+    rev = rev+d.charAt();
+}
+
+
+// check the pelendrome
+let p = "mumum";
+let revs = "";
+for(let i=p.length-1 ; i>=0 ; i--){
+    revs = revs+p.charAt(i);
+}
+if(revs==p)console.log("this is pelendrome");
+    else console.log("its not an pelendrome");
+
