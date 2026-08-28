@@ -122,3 +122,58 @@ Top-P → probability-based number of choices
 
 
 ---
+
+4. Repetition Penalty 🔁
+
+Repetition penalty reduces the likelihood of repeatedly generating the same tokens or phrases.
+
+It is useful when the model keeps saying things like:
+
+> “very good, very good, very good…”
+
+
+
+A repetition penalty can discourage that behavior.
+
+Typical range
+
+There is no universal range because it depends on the model/API implementation.
+
+A common convention is:
+
+1.0 = no penalty
+>1.0 = increasingly discourage repetition
+
+For example:
+
+Repetition Penalty	Effect
+
+1.0	No penalty
+1.05–1.2	Mild penalty
+1.2–1.5	Stronger penalty
+Very high	Can make text unnatural
+
+
+⚠️ Important: Don't assume that 0–2 is the universal range for repetition penalty. Different LLM systems implement it differently.
+
+
+---
+
+Quick Revision Sheet
+
+Parameter	Controls	Lower value	Higher value
+
+Temperature	Randomness	Predictable	Creative/random
+Top-K	Number of candidate tokens	Focused	More choices
+Top-P	Probability mass of candidates	Focused	More choices
+Repetition Penalty	Repeated tokens/phrases	Less restriction	More restriction
+
+
+Remember it like this:
+
+Temperature → How random?
+Top-K → How many choices?
+Top-P → How much probability?
+Repetition Penalty → How much repetition should be discouraged?
+
+And one important point: Temperature, Top-K, and Top-P are sampling controls; repetition penalty is a separate mechanism that modifies token selection probabilities.
