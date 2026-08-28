@@ -1,0 +1,42 @@
+Absolutely. I’ll combine your notes on Temperature, Top-K, Top-P, and Repetition Penalty, while correcting the technical points.
+
+LLM Sampling Parameters
+
+These parameters control how an LLM chooses the next token/word from the available possibilities.
+
+
+---
+
+1. Temperature 🌡️
+
+Temperature controls how random or predictable the output is.
+
+Low temperature → more predictable and consistent
+
+High temperature → more random and creative
+
+
+Typical range
+
+0–2 in many APIs, but the exact range depends on the model/API.
+
+Temperature	Behavior	Best for
+
+0–0.3	Very predictable	Code, maths, factual tasks
+0.4–0.7	Balanced	General conversation
+0.8–1.0	More varied	Creative writing
+1.0–2.0	Highly random	Experimental/creative outputs
+
+
+Simple example:
+
+> Prompt: “The capital of France is…”
+
+
+
+Low temperature → Paris almost consistently.
+
+High temperature → the model has more freedom to consider less-probable choices.
+
+
+---
