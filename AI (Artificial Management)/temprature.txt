@@ -40,3 +40,85 @@ High temperature → the model has more freedom to consider less-probable choice
 
 
 ---
+
+
+2. Top-K Sampling
+
+Top-K limits the model to only the K most probable tokens before choosing the next token.
+
+For example:
+
+Top-K = 5
+
+The model considers only the 5 highest-probability tokens and ignores the rest.
+
+Range
+
+K is an integer, and commonly:
+
+K ≥ 1
+
+Some APIs also allow K = 0, which usually means Top-K is disabled.
+
+Top-K	Effect
+
+1	Most predictable; essentially chooses the highest-probability token
+Small K	Less variety, more focused
+Larger K	More possible choices, more variety
+Very large K	More randomness/variety
+
+The important idea is:
+
+> Smaller K → fewer choices → more predictable
+Larger K → more choices → more diverse
+
+
+
+
+---
+
+3. Top-P Sampling
+
+Top-P (also called nucleus sampling) chooses from the smallest group of tokens whose combined probability reaches P.
+
+Range
+
+0 < P ≤ 1
+
+For example:
+
+Top-P = 0.9
+
+The model keeps adding the most probable tokens until their combined probability reaches about 90%, then samples from that group.
+
+Typical values
+
+Top-P	Effect
+
+0.1–0.3	Very focused/predictable
+0.5–0.7	Moderate variety
+0.8–0.95	Common balanced range
+1.0	Considers the full probability distribution
+
+
+Simple difference
+
+Top-K:
+
+> “Give me the best K number of tokens.”
+
+
+
+Top-P:
+
+> “Give me enough tokens to cover P amount of probability.”
+
+
+
+So:
+
+Top-K → fixed number of choices
+Top-P → probability-based number of choices
+
+
+---
