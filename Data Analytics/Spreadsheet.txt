@@ -19,3 +19,48 @@ Payroll: Calculating worker hours, wages, and tax deductions.
 1- Building timelines, 
 2- Task lists, 
 3- Project deadlines
+<<<<<<< HEAD
+=======
+
+FORMULAS
+
+= IFERROR
+
+In function tab — =IFERROR(C7/C3,"")
+
+This is used to get errors like division by 0 gives error. If it will show it, and if it removes it, put correct answer.
+
+- STRING FUNCTIONS
+
+= LEFT(D3,2)
+
+It helps to get element from another location of the same file and extract the selected part of it
+
+Image 2: Additional Functions
+
+- CONCAT (Location 2)
+
+=F2E","M2G3
+To join two different tabs in one tab
+
+- Sequence
+
+=SEQUENCE(SO,DATE(2023,01,01),2)
+Help to write the fixed table in sequence
+
+- EDATE
+
+=EDATE(C5,1)
+Help to increase and decrease the Date; months, day are to yo[ur] [choice]
+
+Large/Small
+
+=LARGE(C3:(C2,E5,S5))
+Help to [sort] table in house (Ascending Order)
+Image 3: SUMIFS Function
+
+SUMIFS
+
+=SUMIFS(F$:F$4,F0:E0)
+Tell data which has one or Name in it
+>>>>>>> 1e3d36c66f0f051a9a738bf27713dddce36840ea
