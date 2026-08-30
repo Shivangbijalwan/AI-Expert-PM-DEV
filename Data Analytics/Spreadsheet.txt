@@ -1,0 +1,22 @@
+A spreadsheet is a digital document that organizes data in rows and columns to help you store, calculate, and analyze information.
+
+Where Spreadsheets Are Mainly Used
+
+(A) Business and FinanceAccounting: 
+1- Creating balance sheets, 
+2- Income statements,
+3- Tax tracking
+
+(B) Budgeting: Managing company expenses and predicting future revenue.
+Payroll: Calculating worker hours, wages, and tax deductions.
+
+(C) Data Management and AnalysisInventory Tracking: 
+1- Listing product stock levels
+2- Costs,
+3- Warehouse locations.
+
+(D) Project Management: 
+1- Building timelines, 
+2- Task lists, 
+3- Project deadlines
+
