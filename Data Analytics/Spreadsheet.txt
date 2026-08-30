@@ -19,4 +19,3 @@ Payroll: Calculating worker hours, wages, and tax deductions.
 1- Building timelines, 
 2- Task lists, 
 3- Project deadlines
-
