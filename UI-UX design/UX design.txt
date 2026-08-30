@@ -17,3 +17,13 @@ FEATURES
 -> efficient
 -> feedback
 -> attractive
+
+CORE PRINCIPLES
+
+-> User centered - Design acc to user
+-> Userablity - Easy to understand
+-> Sipmlicity - Only imp things of the screen
+-> Consistency - same design in very pages
+-> Accesiblity - all can understand and use 
+-> Feedback - every point a feedback to user given 
+-> Effictive - Less steps to the funalisation not more than 3
