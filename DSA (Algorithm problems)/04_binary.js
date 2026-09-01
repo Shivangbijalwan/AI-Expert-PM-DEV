@@ -26,4 +26,6 @@ else console.log("target found at",index +"index");
    return -1;
 }
 
+
+
 // time complexity - logerthematic ( log n )
