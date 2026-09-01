@@ -97,6 +97,9 @@ button.addEventListener('click', function(){
     button.innerHTML = "remove friend"
     flag = 1;
  
+
+
+
   } else{
       stat.style.color="red";
       stat.innerHTML = "stranger";
