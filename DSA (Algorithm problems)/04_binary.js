@@ -17,6 +17,7 @@ function binarySearch(arr , first , last , target){
 if (index== -1 )console.log("not found");
 else console.log("target found at",index +"index");
 
+
     while(first<=last){
          let mid=Math.floor((first+last)/2)
          if ( arr[mid] == target) return mid
