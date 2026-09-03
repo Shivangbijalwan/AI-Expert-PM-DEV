@@ -26,3 +26,11 @@ One on one conversation to the user where asking their need directly
 -> surface ans 
 -> notes
 -> pattern 
+
+Surveys and Questionaries 
+
+Set of questions are Questionaries are surveys are whatever asking to user 
+
+Ethnographic reserch
+
+Notice everything about user every step observed here and understand why they do so 
