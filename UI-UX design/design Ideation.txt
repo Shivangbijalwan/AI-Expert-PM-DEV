@@ -1,0 +1,115 @@
+Deep Dive Into an Idea
+
+After getting an idea, you can start several activities that help you explore and understand it deeply.
+
+1. Brainstorming
+Generate as many ideas and solutions as possible.
+Encourage everyone to share their thoughts.
+Focus on quantity first, not perfection.
+2. Documentation
+Record ideas, research, decisions, and findings.
+Make proper notes so important information is not lost.
+Keep evidence and references for important decisions.
+3. Stay Focused
+Clearly define the problem you are trying to solve.
+Keep the team focused on the user's actual needs.
+4. Do Not Evaluate Too Early
+During brainstorming, don't immediately judge or reject ideas.
+First collect ideas, then evaluate them later.
+5. Gather a Diverse Team
+Include people with different skills, experiences, and perspectives.
+For example: UX designers, developers, marketers, business people, and users.
+6. Question the Obvious
+Don't simply accept existing assumptions.
+Ask "Why?", "Why not?", and "Is there a better way?"
+Evaluate the Idea
+
+An idea can be evaluated using three important criteria:
+
+1. Feasible
+
+Can we actually build or implement it?
+
+Consider:
+
+Technology
+Resources
+Skills
+Time
+Cost
+2. Desirable
+
+Do users actually want or need it?
+
+Consider:
+
+User problems
+User expectations
+User research
+Usability
+Demand
+3. Viable
+
+Can the idea work as a sustainable business or product?
+
+Consider:
+
+Business model
+Revenue
+Market
+Competition
+Long-term sustainability
+
+A strong idea generally needs to be Feasible + Desirable + Viable.
+
+Role of a UX Designer
+
+A UX designer does not work alone. They often collaborate with:
+
+Marketing – understanding customers and communicating the product.
+Branding – maintaining a consistent brand identity and experience.
+Developers – ensuring designs can actually be implemented.
+Product/Business teams – balancing user needs with business goals.
+Competitor Research
+Identify Key Competitors
+
+Find products or services that solve the same or similar problem.
+
+Inform Your Design
+
+Study competitors to understand:
+
+What they do well
+What they do poorly
+Their features
+Their user experience
+Their strengths and weaknesses
+Solve Usability Problems
+
+Use competitor research and user research to identify problems and create a better experience.
+
+Provide Reliable Evidence
+
+Don't make design decisions only based on assumptions.
+
+Use:
+
+User research
+Surveys
+Interviews
+Analytics
+Competitor research
+Usability testing
+Make Proper Notes
+
+Document:
+
+Research findings
+User problems
+Competitor observations
+Design decisions
+Evidence supporting those decisions
+
+In short:
+
+Idea → Brainstorm → Research → Document → Competitor Analysis → Feasibility + Desirability + Viability → Design → Test → Improve
