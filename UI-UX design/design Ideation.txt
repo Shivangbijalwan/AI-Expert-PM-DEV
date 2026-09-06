@@ -1,115 +1,204 @@
-Deep Dive Into an Idea
+DEEP DIVING INTO AN IDEA
+==========================
 
-After getting an idea, you can start several activities that help you explore and understand it deeply.
+After getting an idea, start with the following activities to explore
+and understand the idea deeply.
 
-1. Brainstorming
-Generate as many ideas and solutions as possible.
-Encourage everyone to share their thoughts.
-Focus on quantity first, not perfection.
-2. Documentation
-Record ideas, research, decisions, and findings.
-Make proper notes so important information is not lost.
-Keep evidence and references for important decisions.
-3. Stay Focused
-Clearly define the problem you are trying to solve.
-Keep the team focused on the user's actual needs.
-4. Do Not Evaluate Too Early
-During brainstorming, don't immediately judge or reject ideas.
-First collect ideas, then evaluate them later.
-5. Gather a Diverse Team
-Include people with different skills, experiences, and perspectives.
-For example: UX designers, developers, marketers, business people, and users.
-6. Question the Obvious
-Don't simply accept existing assumptions.
-Ask "Why?", "Why not?", and "Is there a better way?"
-Evaluate the Idea
 
-An idea can be evaluated using three important criteria:
+1. BRAINSTORMING
+----------------
+- Generate as many ideas and possible solutions as possible.
+- Encourage everyone to share their thoughts.
+- Focus on quantity first rather than judging ideas.
 
-1. Feasible
 
-Can we actually build or implement it?
+2. DOCUMENTATION
+----------------
+- Record ideas, research, decisions, and findings.
+- Make proper notes so important information is not lost.
+- Keep references and evidence for important decisions.
+
+
+3. FOCUS
+--------
+- Clearly define the problem you are trying to solve.
+- Keep the team focused on the user's actual needs.
+- Avoid getting distracted by unnecessary features.
+
+
+4. DO NOT ALLOW EARLY EVALUATION
+--------------------------------
+- During brainstorming, do not immediately judge or reject ideas.
+- First collect and explore ideas.
+- Evaluate and filter the ideas after the brainstorming process.
+
+
+5. GATHER A DIVERSE TEAM
+------------------------
+- Include people with different skills, experiences, and perspectives.
+- A team may include UX designers, developers, marketers,
+  business people, and users.
+
+
+6. QUESTION THE OBVIOUS
+-----------------------
+- Do not simply accept existing assumptions.
+- Ask questions such as:
+  "Why?"
+  "Why not?"
+  "Is there a better way?"
+- Challenge existing solutions and assumptions.
+
+
+EVALUATING THE IDEA
+===================
+
+A good idea can be evaluated using three important criteria:
+
+
+1. FEASIBLE
+-----------
+Question: Can we actually build or implement it?
 
 Consider:
+- Technology
+- Resources
+- Skills
+- Time
+- Cost
 
-Technology
-Resources
-Skills
-Time
-Cost
-2. Desirable
 
-Do users actually want or need it?
-
-Consider:
-
-User problems
-User expectations
-User research
-Usability
-Demand
-3. Viable
-
-Can the idea work as a sustainable business or product?
+2. DESIRABLE
+------------
+Question: Do users actually want or need it?
 
 Consider:
+- User problems
+- User expectations
+- User research
+- Usability
+- Market demand
 
-Business model
-Revenue
-Market
-Competition
-Long-term sustainability
 
-A strong idea generally needs to be Feasible + Desirable + Viable.
+3. VIABLE
+---------
+Question: Can the idea work as a sustainable product or business?
 
-Role of a UX Designer
+Consider:
+- Business model
+- Revenue
+- Market
+- Competition
+- Long-term sustainability
 
-A UX designer does not work alone. They often collaborate with:
 
-Marketing – understanding customers and communicating the product.
-Branding – maintaining a consistent brand identity and experience.
-Developers – ensuring designs can actually be implemented.
-Product/Business teams – balancing user needs with business goals.
-Competitor Research
-Identify Key Competitors
+A strong idea should aim to be:
 
+FEASIBLE + DESIRABLE + VIABLE
+
+
+ROLE OF A UX DESIGNER
+=====================
+
+A UX designer does not work alone. They also collaborate with
+other teams, including:
+
+
+MARKETING
+---------
+- Understand customers and their needs.
+- Help communicate the value of the product.
+
+
+BRANDING
+--------
+- Maintain a consistent brand identity.
+- Ensure the product experience matches the brand.
+
+
+DEVELOPMENT
+-----------
+- Work with developers to make sure designs can be implemented.
+
+
+PRODUCT AND BUSINESS TEAMS
+--------------------------
+- Balance user needs with business goals.
+- Help define product priorities.
+
+
+COMPETITOR RESEARCH
+===================
+
+1. IDENTIFY KEY COMPETITORS
+---------------------------
 Find products or services that solve the same or similar problem.
 
-Inform Your Design
 
+2. INFORM YOUR DESIGN
+---------------------
 Study competitors to understand:
+- What they do well
+- What they do poorly
+- Their features
+- Their user experience
+- Their strengths and weaknesses
 
-What they do well
-What they do poorly
-Their features
-Their user experience
-Their strengths and weaknesses
-Solve Usability Problems
 
-Use competitor research and user research to identify problems and create a better experience.
+3. SOLVE USABILITY PROBLEMS
+---------------------------
+Use competitor research and user research to identify problems
+and create a better user experience.
 
-Provide Reliable Evidence
 
-Don't make design decisions only based on assumptions.
+4. PROVIDE RELIABLE EVIDENCE
+----------------------------
+Do not make design decisions only based on assumptions.
 
 Use:
+- User research
+- Surveys
+- Interviews
+- Analytics
+- Competitor research
+- Usability testing
 
-User research
-Surveys
-Interviews
-Analytics
-Competitor research
-Usability testing
-Make Proper Notes
 
+5. MAKE PROPER NOTES
+--------------------
 Document:
+- Research findings
+- User problems
+- Competitor observations
+- Design decisions
+- Evidence supporting those decisions
 
-Research findings
-User problems
-Competitor observations
-Design decisions
-Evidence supporting those decisions
 
-In short:
+DESIGN PROCESS SUMMARY
+======================
 
-Idea → Brainstorm → Research → Document → Competitor Analysis → Feasibility + Desirability + Viability → Design → Test → Improve
+IDEA
+  |
+  v
+BRAINSTORM
+  |
+  v
+RESEARCH
+  |
+  v
+DOCUMENT
+  |
+  v
+COMPETITOR ANALYSIS
+  |
+  v
+FEASIBILITY + DESIRABILITY + VIABILITY
+  |
+  v
+DESIGN
+  |
+  v
+TEST
+  |
+  v
+IMPROVE
