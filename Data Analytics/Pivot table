@@ -1,0 +1,207 @@
+PIVOT TABLE
+===========
+
+WHAT IS A PIVOT TABLE?
+----------------------
+A Pivot Table is a tool used in Excel, Google Sheets, and other
+spreadsheet programs to summarize and analyze large amounts of data
+quickly.
+
+Instead of manually calculating totals, counts, or averages, a Pivot
+Table automatically groups the data and provides a useful summary.
+
+
+HOW DOES A PIVOT TABLE WORK?
+============================
+
+A Pivot Table takes raw data and organizes it into different areas.
+
+1. ROWS
+-------
+Rows determine what you want to group your data by.
+
+Examples:
+- City
+- Product
+- Department
+- Employee
+
+
+2. COLUMNS
+----------
+Columns create additional categories across the table.
+
+Example:
+
+City       Laptop    Phone
+Delhi       90,000    30,000
+Mumbai      60,000    25,000
+
+
+3. VALUES
+---------
+Values determine what you want to calculate.
+
+Common calculations:
+- SUM
+- COUNT
+- AVERAGE
+- MIN
+- MAX
+
+Example:
+Sales -> SUM
+
+This calculates the total sales.
+
+
+4. FILTERS
+----------
+Filters allow you to choose which data you want to analyze.
+
+Examples:
+- Year = 2026
+- City = Delhi
+- Product = Laptop
+
+
+EXAMPLE
+=======
+
+Raw Data:
+
+Product    City       Sales
+Laptop     Delhi      50,000
+Phone      Delhi      30,000
+Laptop     Mumbai     60,000
+Phone      Mumbai     25,000
+Laptop     Delhi      40,000
+
+Question:
+How much did we sell in each city?
+
+Pivot Table:
+
+City       Total Sales
+Delhi      120,000
+Mumbai      85,000
+
+
+PIVOT TABLE PROCESS
+===================
+
+Raw Data
+   |
+   v
+Select Data
+   |
+   v
+Choose Rows and Columns
+   |
+   v
+Choose Values
+   |
+   v
+Apply Filters
+   |
+   v
+Get Summary
+   |
+   v
+Analyze the Results
+
+
+ANALYSIS
+========
+
+Pivot Tables are mainly used for data analysis.
+
+They can help you find:
+- Total sales by city
+- Sales by product
+- Number of customers
+- Average sales
+- Best-performing products
+- Monthly performance
+- Department-wise expenses
+- Year-wise revenue
+
+They help identify patterns and trends without manually processing
+every row.
+
+
+VISUALS
+=======
+
+Pivot Tables can also be converted into Pivot Charts.
+
+Pivot Table -> Pivot Chart
+
+Common charts include:
+- Bar charts
+- Column charts
+- Line charts
+- Pie charts
+
+Visuals make summarized data easier to understand.
+
+
+ADVANCED PIVOT TABLES
+=====================
+
+1. CALCULATED FIELDS
+--------------------
+Create calculations using existing data.
+
+
+2. GROUPING
+-----------
+Group data into:
+- Years
+- Quarters
+- Months
+
+
+3. SLICERS
+----------
+Interactive buttons that allow you to filter data easily.
+
+
+4. MULTIPLE FIELDS
+------------------
+Use several rows, columns, values, and filters together for detailed
+analysis.
+
+
+5. DRILL DOWN
+-------------
+Double-click a summarized value to see the underlying records.
+
+
+6. PIVOT CHARTS
+---------------
+Create dynamic charts based on the Pivot Table.
+
+
+SIMPLE EXAMPLE
+==============
+
+Imagine you have 10,000 sales records.
+
+Instead of manually asking:
+"How much did each product sell in each city?"
+
+You can create a Pivot Table:
+
+Rows    -> City
+Columns -> Product
+Values  -> SUM of Sales
+
+The Pivot Table instantly provides a summarized view of the data.
+
+
+IN SIMPLE WORDS
+===============
+
+Pivot Table = A tool that takes large raw data and turns it into
+a meaningful summary for analysis.
